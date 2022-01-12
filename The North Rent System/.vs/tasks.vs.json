@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskName": "task-The North Rent System",
+      "appliesTo": "The North Rent System/",
+      "type": "launch"
+    }
+  ]
+}
